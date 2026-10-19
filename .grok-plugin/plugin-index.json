@@ -525,7 +525,7 @@
       }
     },
     "firedrill": {
-      "sha": "da29849b55524c4e91d85d89aa54bfcee64fd128",
+      "sha": "90ebadd8353b2edf58003993b15ef2c49e053792",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
