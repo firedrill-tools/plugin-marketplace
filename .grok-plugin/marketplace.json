@@ -6,6 +6,21 @@
   },
   "plugins": [
     {
+      "name": "firedrill",
+      "description": "Firedrill is the free simulation lab for coding agents. Explore application behavior across scenarios, prepare synthetic dependencies, and inspect retained evidence through remote MCP. Actual application execution uses a separately authorized customer-owned runner.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/firedrill-tools/firedrill-plugin.git",
+        "sha": "da29849b55524c4e91d85d89aa54bfcee64fd128"
+      },
+      "homepage": "https://firedrill.run/agents",
+      "keywords": ["firedrill", "firedrill simulations", "firedrill reports"],
+      "domains": ["firedrill.run", "mcp.firedrill.run", "docs.firedrill.run"],
+      "version": "1.0.0",
+      "author": { "name": "Firedrill" }
+    },
+    {
       "name": "vercel",
       "description": "Vercel deployment platform integration. Manage deployments, check build status, access logs, configure domains, and control your frontend infrastructure directly from Grok.",
       "category": "deployment",
